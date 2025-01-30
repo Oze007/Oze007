@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Othmane Zedguaoui
 
-<!--
-**Oze007/Oze007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student in Engineering and Quality Management**  
+📍 Casablanca, Morocco  
+📧 Othmanezedguaoui@gmail.com  
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a passionate **Quality Assurance, Quality Management, and Process Optimization** enthusiast with a strong academic background in **Engineering and Management of Quality**. My goal is to contribute to organizational excellence by ensuring compliance, efficiency, and defect prevention.. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Skills
+- **Quality & Compliance:** ISO 9001, ISO 14001, ISO 45001, ISO 22000, IATF 16949, ISO 27001  
+- **Process Improvement:** Statistical Process Control (SPC), 8D Report, MRP, FMEA, Ishikawa, Pareto Analysis  
+- **Tools & Software:** Microsoft Office, SPSS, Salesforce, Minitab, Power BI, Python, SAP  
+- **Soft Skills:** Analytical Thinking, Problem-Solving, Effective Communication, Organizational Skills  
+
+## 🏆 Certifications
+- Python Data Structures (Coursera)
+- SAP Technology Consultant
+
+## 🎯 Let's Connect!
+Feel free to reach out for discussions on **Quality Management,and Data Analytics**.
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/othmane-z-10b22a1a0/](#)  
+
